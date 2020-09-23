@@ -132,6 +132,11 @@ input:checked + .slider:before {
 	color:#dc7482;
 }
 
+.hov:hover{
+	background-color:#DCDCDC;
+    cursor: pointer;
+}
+
 .facebook, .twitter,.instagram,.youtube{
 	font-size:20px;
 	border-radius: 5px; 
